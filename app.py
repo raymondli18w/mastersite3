@@ -17,7 +17,7 @@ projects = [
     },
     {
         "name": "Inbound TSV to CSV Converter",
-        "desc": Inbound TSV to CSV Converter",
+        "desc": "Inbound TSV to CSV Converter",
         "url": "https://inboundcsvmaker-h5qh2arri4ajr5ulnsmjap.streamlit.app/"
     },
     {
